@@ -7,7 +7,7 @@
 class EfficientTruckloads
 {
     private:
-    std::map<int,int> recursiveTrucks
+    std::map<int,int> recursiveTrucks;
 
     public:
     EfficientTruckloads();
